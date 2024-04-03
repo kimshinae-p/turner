@@ -606,6 +606,10 @@ footer {
     .con1{
         margin: 100px auto;
     }
+
+    .text p{
+        font-size: 12px;
+    }
 }
 
 /* 595px ~ */
