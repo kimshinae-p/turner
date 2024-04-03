@@ -104,6 +104,9 @@ input {
     top: 180px;
     left: 0;
 }
+.mb_text br{
+    display: none;
+}
 h1{
     font-size: 100px;
 }
@@ -690,6 +693,9 @@ footer .m_footer{
     }
     .mb_text p{
         font-size: 3vw;
+    }
+    .mb_text br{
+        display: block;
     }
 
 }
