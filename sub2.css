@@ -185,6 +185,7 @@ h1 {
     height: 700px;
     background: url(./images/sub2/bg.png
 ) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .con2 p {
