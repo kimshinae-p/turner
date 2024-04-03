@@ -1027,6 +1027,10 @@ footer {
         text-align: center;
     }
 
+    footer .m_footer img{
+        width: 20%;
+    }
+
     .topbutton {
         bottom: 20px;
         right: 30px;
