@@ -590,7 +590,7 @@ footer {
     }
 
     .text p{
-        font-size: 2vw;
+        font-size: 3vw;
     }
 
 }
@@ -607,9 +607,7 @@ footer {
         margin: 100px auto;
     }
 
-    .text p{
-        font-size: 12px;
-    }
+   
 }
 
 /* 595px ~ */
